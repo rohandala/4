@@ -1,0 +1,9 @@
+nim 1811500049
+nama rohandala
+kelompok ti6
+class diagram
+membuat diagram untuk mengambarkan hubungan dari ke yang lain secara terhubung
+class diagram memiliki nama class, atribut dan method
+nama class atau nama tabel
+atribut field yang menjadi key, nama field, tipe data, lebar
+method operasi yang dilakukan pada class tabel

@@ -1,0 +1,7 @@
+nim 1811500049
+nama rohandala
+kelompok ti6j
+
+membuat usecase diagram
+mengambarkan hubungan apa yang dilakukan aktor dengan sistem
+mengambarkan fungsi2 yang dimiliki pada sistem

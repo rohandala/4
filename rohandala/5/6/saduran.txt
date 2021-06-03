@@ -1,0 +1,7 @@
+1. nim 1811500049
+2. nama rohandala
+3. kelompok ti6
+4. membuat class diagram
+5. daftar akun memiliki nama lengkap, alamat, no hp atau wa, username, password, simpan, kembali
+6. membuat halaman utama aplikasi yang berisi katalog, keranjang, pesanan, logout
+7. format pengerjaan rancangan mulai dari pemesanan hingga sampai ke konsumen
